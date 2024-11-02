@@ -43,6 +43,7 @@
                 <version>${apollo.version}</version>
             </dependency>
 
+
         </dependencies>
     </dependencyManagement>
 
